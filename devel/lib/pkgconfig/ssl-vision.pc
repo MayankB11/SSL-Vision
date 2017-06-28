@@ -1,0 +1,8 @@
+prefix=/home/aif/robo_ssl/ssl-vision/devel
+
+Name: ssl-vision
+Description: Description of ssl-vision
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/aif/robo_ssl/ssl-vision/devel/lib 
+Requires: 

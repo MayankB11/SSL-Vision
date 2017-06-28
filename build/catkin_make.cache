@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/aif/robo_ssl/ssl-vision/devel -DCMAKE_INSTALL_PREFIX=/home/aif/robo_ssl/ssl-vision/install -G Unix Makefiles
